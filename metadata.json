@@ -1,0 +1,8 @@
+{
+  "name": "Personal Finance Advisor",
+  "description": "An expert AI-powered personal finance advisor to analyze your budget, calculate your Financial Health Score, and provide highly tailored strategies and projections to reach your financial goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
